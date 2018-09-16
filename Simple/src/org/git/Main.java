@@ -9,6 +9,7 @@ public class Main {
 		// TODO Auto-generated method stub
 		System.out.println("Hello World");
 		display();
+		System.out.println("Version1");
 		System.out.println("End");
 	}
 
